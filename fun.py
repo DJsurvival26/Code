@@ -10,4 +10,4 @@ def ction(size=4):
     coef=coef.squeeze()
     return poly(coef)
 
-print(ction())
+print(ction(333))
